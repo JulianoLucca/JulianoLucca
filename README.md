@@ -1,4 +1,4 @@
-## Olá! Prazer eu sou o <strong>👨‍💻Juliano Lucca👨‍💻</strong> Bem vindo ao meu perfil😁
+## Olá! Eu sou o <strong>Juliano Lucca👨‍💻</strong> Bem vindo ao meu perfil😁
 
 💼 Estou fazendo estágio como desenvolvedor na Reply Brasil em Belo Horizonte 💼
 
