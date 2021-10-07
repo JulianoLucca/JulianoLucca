@@ -1,6 +1,6 @@
 ## Olá! Prazer eu sou o <strong>👨‍💻Juliano Lucca👨‍💻</strong> Bem vindo ao meu perfil😁
 
-💼 Atuamente estagiando como desenvolvedor na Reply Brasil em Belo Horizonte.
+💼 Estou fazendo estágio como desenvolvedor na Reply Brasil em Belo Horizonte 💼
 
 <div align="center">
   <a href="https://github.com/JulianoLucca">
