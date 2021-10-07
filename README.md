@@ -1,3 +1,7 @@
+## Olá! Prazer eu sou o <strong>👨‍💻Juliano Lucca👨‍💻</strong> Bem vindo ao meu perfil😁
+
+💼 Atuamente estagiando como desenvolvedor na Reply Brasil em Belo Horizonte.
+
 <div align="center">
   <a href="https://github.com/JulianoLucca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoLucca&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
